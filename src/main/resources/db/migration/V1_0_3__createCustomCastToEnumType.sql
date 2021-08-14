@@ -1,0 +1,1 @@
+CREATE CAST (character varying as valid_statuses) WITH INOUT AS IMPLICIT;

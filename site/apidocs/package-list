@@ -1,0 +1,13 @@
+futureofmedia.trial
+futureofmedia.trial.config
+futureofmedia.trial.controller
+futureofmedia.trial.dto
+futureofmedia.trial.enm
+futureofmedia.trial.entity
+futureofmedia.trial.filter
+futureofmedia.trial.handlers
+futureofmedia.trial.interfaces
+futureofmedia.trial.mockmodel
+futureofmedia.trial.repository
+futureofmedia.trial.service
+futureofmedia.trial.validator
